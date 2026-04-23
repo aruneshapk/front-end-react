@@ -4,7 +4,6 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import NavBar from "./components/NavBar";
 import Footer from "./components/Footer";
 import BookList from "./components/BookList";
-import fetchBooks from "./services/api-clients";
 import useBooks from "./services/useBooks";
 import BookDetail from "./components/BookDetail";
 
